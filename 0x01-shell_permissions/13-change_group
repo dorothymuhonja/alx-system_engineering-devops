@@ -1,2 +1,2 @@
 #!/bin/bash
-ghgrp my_dir hello
+sudo chgrp school ./hello
